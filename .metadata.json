@@ -2,5 +2,9 @@
   {
     "package": "eRTG3D",
     "oncran": true
+  },
+  {
+    "package": "flexpolyline",
+    "oncran": true
   }
 ]

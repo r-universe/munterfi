@@ -8,3 +8,8 @@
 	url = https://github.com/munterfi/ertg3d
 	shallow = true
 	registered = true
+[submodule "flexpolyline"]
+	path = flexpolyline
+	url = https://github.com/munterfi/flexpolyline
+	shallow = true
+	registered = true
