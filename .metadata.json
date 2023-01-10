@@ -6,5 +6,9 @@
   {
     "package": "flexpolyline",
     "oncran": true
+  },
+  {
+    "package": "hereR",
+    "oncran": true
   }
 ]

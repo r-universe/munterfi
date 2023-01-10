@@ -13,3 +13,8 @@
 	url = https://github.com/munterfi/flexpolyline
 	shallow = true
 	registered = true
+[submodule "hereR"]
+	path = hereR
+	url = https://github.com/munterfi/herer
+	shallow = true
+	registered = true
