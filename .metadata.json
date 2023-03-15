@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "flexpolyline",
+    "package": "hereR",
     "oncran": true
   },
   {
-    "package": "hereR",
+    "package": "flexpolyline",
     "oncran": true
   }
 ]
