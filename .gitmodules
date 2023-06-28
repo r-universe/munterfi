@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eRTG3D"]
 	path = eRTG3D
 	url = https://github.com/munterfi/ertg3d
-	shallow = true
-	registered = true
 [submodule "flexpolyline"]
 	path = flexpolyline
 	url = https://github.com/munterfi/flexpolyline
-	shallow = true
-	registered = true
 [submodule "hereR"]
 	path = hereR
 	url = https://github.com/munterfi/herer
-	shallow = true
-	registered = true
